@@ -43,7 +43,7 @@ required to complete them.
 
 |      Completed       | Name                                                                              | Short Description                                          | Tier       |
 | :------------------: | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-|<ul><li>[x] </li></ul>| [Bin2Dec](./Projects/1-Beginner/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         | 1-Beginner |
+|<ul><li>[x] </li></ul>| [Bin2Dec](./Projects/1-Beginner/Bin2Dec/Bin2Dec-App.md)                                   | Binary-to-Decimal number converter                         | 1-Beginner |
 |<ul><li>[ ] </li></ul>| [Border Radius Previewer](./Projects/1-Beginner/Border-Radius-Previewer.md)       | Preview how CSS3 border-radius values affect an element    | 1-Beginner |
 |<ul><li>[ ] </li></ul>| [Calculator](./Projects/1-Beginner/Calculator-App.md)                             | Calculator                                                 | 1-Beginner |
 |<ul><li>[ ] </li></ul>| [Christmas Lights](./Projects/1-Beginner/Christmas-Lights-App.md)                 | Simulate a string of Christmas lights                      | 1-Beginner |
